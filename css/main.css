@@ -33,13 +33,6 @@
   src: local('Executive 65'), url('fonts/Executive-65Medium.otf') format('opentype');
 }
 
-@font-face {
-  font-family: 'OnAir';
-  font-style: normal;
-  font-weight: normal;
-  src: local('OnAir'), url('fonts/OnAir.otf') format('opentype');
-}
-
 .font-executive-45 {
   font-family: 'Executive 45', sans-serif;
 }
